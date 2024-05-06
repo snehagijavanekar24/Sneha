@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @CrossOrigin
-@RequestMapping("/Information")
+@RequestMapping("/Registration")
 public class Information_controller {
     InformationService informationService;
 
